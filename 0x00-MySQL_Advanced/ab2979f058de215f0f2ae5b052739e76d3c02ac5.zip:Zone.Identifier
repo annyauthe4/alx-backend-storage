@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://savanna.alxafrica.com/
+HostUrl=https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2020/6/ab2979f058de215f0f2ae5b052739e76d3c02ac5.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T174050Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=336dbbc15aef4b4c0eacc8035a528556416409eaa34bacab7ea596c64d86ef93
