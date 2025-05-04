@@ -53,3 +53,13 @@ DELIMITER ;
 </code>
 <b>Called like this:</b>
 <code>SELECT get_user_age('john@example.com');</code>
+
+<h1> To test the file on the database</h1>
+<b>Create a named database if not exist:</b>
+mysql -uroot -p "CREATE DATABASE IF NOT EXISTS databaseName;"
+
+<b>Use file on database:</b>
+cat filename | mysql -uroot -p databaseName(e.g holberton)
+
+<b> To check the properties of a table:</b>
+mysql -uroot -p databaseName -e "DESCRIBE tableName(e.g users);"
