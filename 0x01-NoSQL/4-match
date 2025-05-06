@@ -1,2 +1,2 @@
 // List all documents with a match in a collection
-db.school.find({name: "ALX"})
+db.school.find({name: "ALX"}, {name: 1, _id:1})
